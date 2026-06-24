@@ -1,1 +1,5 @@
-Commande ECHO activ‚e.
+class Task {
+    constructor(title){
+        this.title = title; 
+    }
+}
